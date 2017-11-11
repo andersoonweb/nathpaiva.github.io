@@ -23,7 +23,7 @@ Tenho certeza que escrevendo em um blog vou aprender a escrever melhor (to preci
 
 É isso pessoal, minha ideia é começar bem do básico e ir avançando.
 
-Para vocês saberem, para eu pegar a base, além de ler bastabte eu estou fazendo o curso de [Javascript Ninja do Daciuk](https://www.udemy.com/curso-javascript-ninja "Curso de Javascript Ninja do Daciuk"){:target="_blank"} e é um curso maravilhoso! ❤️
+Para vocês saberem, para eu pegar a base, além de ler bastante eu estou fazendo o curso de [Javascript Ninja do Daciuk](https://www.udemy.com/curso-javascript-ninja "Curso de Javascript Ninja do Daciuk"){:target="_blank"} e é um curso maravilhoso! ❤️
 
 O que tiverem de dúvidas pode comentar que vamos trocando uma ideia!
 
